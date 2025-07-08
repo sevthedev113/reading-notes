@@ -1,19 +1,7 @@
 ## 📚 July 2025
 
-### 1. [Understanding the Event Loop in JavaScript](https://example.com)
+### 1. [Things about remote work](https://shift.infinite.red/5-things-that-suck-about-remote-work-506b98dd38f9)
 
-**Date:** July 8  
-**What I Learned:**
-
-- The call stack and task queue interact via the event loop.
-- `setTimeout(fn, 0)` doesn’t mean immediate.
-  **Thoughts:**  
-  Helped me understand some async bugs I’ve faced.
-
----
-
-### 2. [Why Introverts Thrive in Deep Work](https://another-article.com)
-
-**Date:** July 6  
-**What I Felt:**  
-Felt understood. It explained how focus isn't about effort but about environment.
+**Date:** July 8
+**Place** Cofree
+**Thoughts:** 🕳 Social Void: a quiet emptiness that comes from working alone, without casual face-to-face interaction. I’ve felt that strange silence too, like I’m part of the system, but still outside of it. This article made me think more intentionally about how to protect the emotional space while working remotely.
