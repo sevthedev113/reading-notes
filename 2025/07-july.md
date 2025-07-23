@@ -4,6 +4,7 @@
 
 **Date:** July 8  
 **Place:** Cofree Cafe
+
 **Thoughts:**  
 🕳 Social Void: a quiet emptiness that comes from working alone, without casual face-to-face interaction.
 
